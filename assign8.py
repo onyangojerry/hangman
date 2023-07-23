@@ -1,6 +1,5 @@
 # Jerry Onyango
 # CS51
-# Assign 8
 
 # 04/02/2023
 
